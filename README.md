@@ -15,3 +15,10 @@ numpy, requests, Pillow
 Flask
 
 
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/ChethanaN/face-recognition-api.git
+cd face-recognition-api
+
